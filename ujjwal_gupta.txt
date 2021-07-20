@@ -1,4 +1,13 @@
-downloaded the zip
-add this file
+cloned the repo 
+using-
+git clone <https given>
+
+added this file
+
 pushed back to the repo on github
+using-
+git add .
+git push -m "added a new file"
+git push -u origin main
+
 then made a pull request.
