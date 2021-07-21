@@ -1,8 +1,8 @@
 # learn-github
 
 
-# jinhone kar diya wo project kon local repo me le jaao aur kaam shuru karo 
-# jinhone abhi tak ye kaam nahi kiya jaldi karo panvel nikalna he
+ jinhone kar diya wo project kon local repo me le jaao aur kaam shuru karo 
+ jinhone abhi tak ye kaam nahi kiya jaldi karo panvel nikalna he
 
 # huehuehue
 
